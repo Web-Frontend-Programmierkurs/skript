@@ -62,7 +62,7 @@ for (let i = 0; i < a.length; i++) {
 
 ## Destructuring
 
-```
+```js
 const myObj = {
     a = 5,
     b = 42
