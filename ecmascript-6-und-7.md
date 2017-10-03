@@ -71,5 +71,21 @@ const myObj = {
 const {a, b} = myObj;
 ```
 
+## Generator Functions
+
+```js
+function* counter() {
+    let i = 0;
+    while(true) {
+        yield i++;
+    }
+}
+
+const myCounter = counter();
+myCounter.next().value; // 0
+myCounter.next().value; // 1
+myCounter.next().value; // 2
+```
+
 
 
