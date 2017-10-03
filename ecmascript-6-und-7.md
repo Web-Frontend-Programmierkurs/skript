@@ -1,4 +1,4 @@
-EcmaScript 6 oder auch EcmaScript 2015 ist die 6. Version der Standardisierung von JavaScript vom Juni 2015. Sie enthält viele Neuerungen, die deutlich schöneren code ermöglichen. Aufgelistet findet man diese [hier](http://es6-features.org/#Constants).
+_EcmaScript 6_ oder auch _EcmaScript 2015_ ist die 6. Version der Standardisierung von JavaScript vom Juni 2015. Sie enthält viele Neuerungen, die deutlich schöneren Code ermöglichen. Aufgelistet findet man diese [hier](http://es6-features.org/#Constants).
 
 Die wichtigsten sind folgende:
 
