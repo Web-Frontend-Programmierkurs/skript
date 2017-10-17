@@ -1,8 +1,8 @@
 # IDE
 
-Für die Webentwicklung gibt es eine Vielzahl an nützlichen Editoren / IDEs, von [Visual Studio Code](https://code.visualstudio.com/) über [WebStorm](https://www.jetbrains.com/webstorm/) bis hin zu [Sublime](https://www.sublimetext.com/). Ich empfehle aber den  [Atom-Editor](https://atom.io/) zu verwenden, für den ein riesiges Plugin-Universum existiert.
+Für die Webentwicklung gibt es eine Vielzahl an nützlichen Editoren / IDEs, von [Visual Studio Code](https://code.visualstudio.com/) über [WebStorm](https://www.jetbrains.com/webstorm/) bis hin zu [Sublime](https://www.sublimetext.com/). Ich empfehle aber den [Atom-Editor](https://atom.io/) zu verwenden, für den ein riesiges Plugin-Universum existiert.
 
-Für diesen sind folgende Addons sind nützlich:
+Für diesen sind folgende Addons nützlich:
 
 * atom-import-sort
 * atom-react-autocomplete
