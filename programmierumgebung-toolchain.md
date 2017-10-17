@@ -28,6 +28,8 @@ Alle installieren:
 
 `apm install atom-import-sort atom-react-autocomplete autocomplete-modules editorconfig file-icons linter linter-csslint linter-eslint linter-htmlhint linter-jsonlint linter-less minimap minimap-linter pigments minimap-pigments prettier-atom react`
 
+Es lohnt sich immer ein Blick in das [Atom Package](https://atom.io/packages) Repository und diese [Liste aller Linter](https://atomlinter.github.io/).
+
 # Node
 
 Bitte installiert [node.js](https://nodejs.org/en/).
