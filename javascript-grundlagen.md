@@ -28,5 +28,44 @@ new Number('3') instanceof Number // true
 function() {} instanceof Function // true
 ```
 
+Folgende Kontrollstrukturen gibt es:
 
+```js
+while (i < 10) {
+    // do something
+}
+
+do {
+    // do something
+}
+while (i < 10);
+
+if (a === b) {
+  // do something
+}
+
+for (var c = 0; c < 10; c += 1) {
+  // do something
+}
+
+for (element in object) {
+  // do something
+}
+
+switch(i) {
+  case 1:
+    // do something
+    break;
+  case 2:
+    // do something
+    break;
+  default:
+     // do something
+    break;
+}
+
+var c = (b === 5) ? 3 : 4;
+```
+
+Siehe hierfür auch [JavaScript/control structures](https://en.wikibooks.org/wiki/JavaScript/Control_structures).
 
