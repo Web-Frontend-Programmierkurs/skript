@@ -40,7 +40,7 @@ console.log(inventory.find(findCherries)); // { name: 'cherries', quantity: 5 }
 
 [https://developer.mozilla.org/de/docs/Web/JavaScript/Reference/Global\_Objects/Array/forEach](https://developer.mozilla.org/de/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach)
 
-```
+```js
 var a = ['a', 'b', 'c'];
 
 a.forEach(function(element) {
